@@ -1,0 +1,27 @@
+# FastAPI et serveur
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Traitement d'images
+Pillow==10.2.0
+opencv-python==4.9.0.80
+
+# IA et ML
+tensorflow==2.15.0
+numpy==1.24.3
+
+# Clients API externes
+openai==1.12.0
+requests==2.31.0
+
+# Blockchain
+web3==6.15.1
+
+# Validation
+pydantic==2.6.0
+pydantic-settings==2.1.0
+
+# Utilitaires
+aiofiles==23.2.1
